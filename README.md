@@ -15,11 +15,11 @@ This repository showcases an interactive dashboard built in Tableau Public for t
 ![Tableau Dashboard Preview 1](Tableau%201.png)
 ![Tableau Dashboard Preview 2](Tableau%202.png)
 
-## 🎯 Project Goal
+##  Project Goal
 
 The main objective was to create a comprehensive Tableau dashboard to analyze the results of a marketing A/B test. The dashboard is designed to be filtered by continent and specific time intervals (the test period) to provide granular insights.
 
-## 📋 Project Execution Steps
+##  Project Execution Steps
 
 This project was built following these key steps:
 
