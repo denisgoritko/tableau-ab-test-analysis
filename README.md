@@ -8,7 +8,6 @@ This repository showcases an interactive dashboard built in Tableau Public for t
 
 ### [ Click here to view the interactive dashboard on Tableau Public]([https://public.tableau.com/views/CreateYourABTestingTool_17617488603990/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link])
 
----
 
 ##  Dashboard Preview
 
